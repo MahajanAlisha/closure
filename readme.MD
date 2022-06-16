@@ -7,3 +7,8 @@ Then create 2 files `uniqueB.js` and `uniqueC.js` which will call that initially
 
 - Created a closure function in A and exported that closure function
 - B and C are importing that function and calling that 
+
+# Result
+
+
+<img src="./assets/result.png" alt="result">
